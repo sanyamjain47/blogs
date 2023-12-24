@@ -1,6 +1,6 @@
+baseURL: https://sanyamjain47.github.io/blogs/  # Change to your blog's URL
 title: Sanyam's Blog  # Update with your blog's name
 theme: [PaperMod]
-realtiveURLS : true
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
