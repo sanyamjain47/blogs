@@ -70,8 +70,10 @@ params:
   homeInfoParams:
     Title: "Welcome to Sanyam's Blog"
     Content: >
-      Welcome to my blog where I share insights, stories, and more. 
+      - Welcome to my blog where I share insights, stories, and more. 
       Stay updated by following along, and don't hesitate to engage with the content!
+
+      - Click here to go to my [personal website](https://sanyamjain47.github.io/).
 
   socialIcons:
     - name: github
