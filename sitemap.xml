@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/categories/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/code/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/tags/code/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/post1/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/posts/post1/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/gist/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/tags/gist/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/markdown/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/tags/markdown/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/posts/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/series/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/syntax/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/tags/syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/syntax/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/categories/syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/tags/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/themes/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/categories/themes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/themes-guide/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/series/themes-guide/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/archives/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://sanyamjain47.github.io/blogs/search/</loc>
   </url>
 </urlset>

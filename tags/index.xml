@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sanyam&#39;s Blog</title>
-    <link>/tags/</link>
+    <link>https://sanyamjain47.github.io/blogs/tags/</link>
     <description>Recent content in Tags on Sanyam&#39;s Blog</description>
     <image>
       <title>Sanyam&#39;s Blog</title>
-      <url>images/blog-cover.png</url>
-      <link>images/blog-cover.png</link>
+      <url>https://sanyamjain47.github.io/blogs/images/blog-cover.png</url>
+      <link>https://sanyamjain47.github.io/blogs/images/blog-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sanyamjain47.github.io/blogs/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>code</title>
-      <link>/tags/code/</link>
+      <link>https://sanyamjain47.github.io/blogs/tags/code/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/code/</guid>
+      <guid>https://sanyamjain47.github.io/blogs/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>gist</title>
-      <link>/tags/gist/</link>
+      <link>https://sanyamjain47.github.io/blogs/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/gist/</guid>
+      <guid>https://sanyamjain47.github.io/blogs/tags/gist/</guid>
       <description></description>
     </item>
     <item>
       <title>markdown</title>
-      <link>/tags/markdown/</link>
+      <link>https://sanyamjain47.github.io/blogs/tags/markdown/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/markdown/</guid>
+      <guid>https://sanyamjain47.github.io/blogs/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>syntax</title>
-      <link>/tags/syntax/</link>
+      <link>https://sanyamjain47.github.io/blogs/tags/syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/syntax/</guid>
+      <guid>https://sanyamjain47.github.io/blogs/tags/syntax/</guid>
       <description></description>
     </item>
   </channel>
