@@ -1,0 +1,84 @@
+title: Sanyam's Blog  # Update with your blog's name
+theme: [PaperMod]
+realtiveURLS : true
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]  # Focus on posts
+
+minify:
+  disableXML: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Posts
+          url: posts/
+          weight: 5
+        - name: Archive
+          url: archives/
+          weight: 5
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: Series
+          url: series/
+          weight: 15
+        - name: Search
+          url: search/
+          weight: 20
+    params:
+      profileMode:
+        enabled: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "Your Blog Description"
+  author: Your Name
+
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  images: ["images/blog-cover.png"]
+
+  homeInfoParams:
+    Title: "Welcome to Sanyam's Blog"
+    Content: >
+      Welcome to my blog where I share insights, stories, and more. 
+      Stay updated by following along, and don't hesitate to engage with the content!
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/sanyamjain47"
+
+markup:
+  goldmark:
+    renderer:
+     
