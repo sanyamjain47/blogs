@@ -11,34 +11,69 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sanyamjain47.github.io/blogs/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>code</title>
-      <link>https://sanyamjain47.github.io/blogs/tags/code/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://sanyamjain47.github.io/blogs/tags/code/</guid>
+      <title>Basics</title>
+      <link>https://sanyamjain47.github.io/blogs/tags/basics/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sanyamjain47.github.io/blogs/tags/basics/</guid>
       <description></description>
     </item>
     <item>
-      <title>gist</title>
-      <link>https://sanyamjain47.github.io/blogs/tags/gist/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://sanyamjain47.github.io/blogs/tags/gist/</guid>
+      <title>Docker</title>
+      <link>https://sanyamjain47.github.io/blogs/tags/docker/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sanyamjain47.github.io/blogs/tags/docker/</guid>
       <description></description>
     </item>
     <item>
-      <title>markdown</title>
-      <link>https://sanyamjain47.github.io/blogs/tags/markdown/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://sanyamjain47.github.io/blogs/tags/markdown/</guid>
+      <title>DockerCompose</title>
+      <link>https://sanyamjain47.github.io/blogs/tags/dockercompose/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sanyamjain47.github.io/blogs/tags/dockercompose/</guid>
       <description></description>
     </item>
     <item>
-      <title>syntax</title>
-      <link>https://sanyamjain47.github.io/blogs/tags/syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://sanyamjain47.github.io/blogs/tags/syntax/</guid>
+      <title>Dockerfile</title>
+      <link>https://sanyamjain47.github.io/blogs/tags/dockerfile/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sanyamjain47.github.io/blogs/tags/dockerfile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DockerNetwork</title>
+      <link>https://sanyamjain47.github.io/blogs/tags/dockernetwork/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sanyamjain47.github.io/blogs/tags/dockernetwork/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IDK</title>
+      <link>https://sanyamjain47.github.io/blogs/tags/idk/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sanyamjain47.github.io/blogs/tags/idk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>https://sanyamjain47.github.io/blogs/tags/introduction/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sanyamjain47.github.io/blogs/tags/introduction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TODO</title>
+      <link>https://sanyamjain47.github.io/blogs/tags/todo/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sanyamjain47.github.io/blogs/tags/todo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Volumes</title>
+      <link>https://sanyamjain47.github.io/blogs/tags/volumes/</link>
+      <pubDate>Tue, 26 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://sanyamjain47.github.io/blogs/tags/volumes/</guid>
       <description></description>
     </item>
   </channel>
