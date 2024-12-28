@@ -5,7 +5,7 @@ date: "2023-12-26"
 tags: ["Docker", "Basics"]
 series: ["Learning Docker"]
 author: ["Sanyam Jain"]
-draft: false
+draft: true
 ---
 
 # Setup

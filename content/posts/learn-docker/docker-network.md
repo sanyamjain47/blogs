@@ -5,7 +5,7 @@ date: "2023-12-26"
 tags: ["Docker", "DockerNetwork",]
 series: ["Learning Docker"]
 author: ["Sanyam Jain"]
-draft: false
+draft: true
 ---
 
 # Types of Networks in Docker

@@ -5,7 +5,7 @@ date: "2023-12-26"
 tags: ["Docker", "Dockerfile"]
 series: ["Learning Docker"]
 author: ["Sanyam Jain"]
-draft: false
+draft: true
 ---
 
 # Dockerfiles
